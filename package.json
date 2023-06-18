@@ -16,5 +16,10 @@
   "devDependencies": {
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.6"
-  }
+  },
+  "description": "blockchain based chat application",
+  "main": "index.js",
+  "repository": "https://github.com/kunaldhongade/ChatLink",
+  "author": "“kunaldhongade” <“kunaldhongade1@gmail.com”>",
+  "license": "MIT"
 }
