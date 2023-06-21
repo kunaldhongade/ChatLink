@@ -17,9 +17,9 @@ To install and run ChatLink locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/kunaldhongade/ChatLink.git`
 2. Navigate to the project directory: `cd ChatLink`
-3. Install dependencies: `npm install / yarn install`
-4. Start the development server: `npm run dev / yarn run dev`
-5. Open your browser and visit `http://localhost:3000` to access ChatChain.
+3. Install dependencies: `npm install` / `yarn install`
+4. Start the development server: `npm run dev` / `yarn run dev`
+5. Open your browser and visit `http://localhost:3000` to access ChatLink.
 
 ## Technology Stack
 
