@@ -24,8 +24,6 @@
     "@typechain/ethers-v5": "^10.1.0",
     "@typechain/hardhat": "^6.1.2",
     "chai": "^4.2.0",
-    "eslint": "8.43.0",
-    "eslint-config-next": "13.4.6",
     "ethers": "^5.4.7",
     "hardhat": "^2.11.1",
     "hardhat-gas-reporter": "^1.0.8",
